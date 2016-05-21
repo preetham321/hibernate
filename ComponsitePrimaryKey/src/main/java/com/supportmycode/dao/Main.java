@@ -5,10 +5,8 @@ import org.hibernate.SessionFactory;
 
 import com.supportmycode.model.Employee;
 import com.supportmycode.model.EmployeeKey;
-
 import com.supportmycode.persistence.HibernateUtil;
 
-import com.supportmycode.persistence.HibernateUtil;
 public class Main {
 
 	@SuppressWarnings("unchecked")
